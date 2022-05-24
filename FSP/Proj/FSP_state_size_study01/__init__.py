@@ -1,0 +1,1 @@
+PROJECT_PATH = '/home/jhchae/Ongoing/Protein_expression/FSP/Proj/'
